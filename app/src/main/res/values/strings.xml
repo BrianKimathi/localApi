@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalRetroTest</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="name">Name: %s</string>
+    <string name="age">Age: %s</string>
+    <string name="phone">Phone: %s</string>
+    <string name="app_top_name">Users App Local Api</string>
+</resources>
